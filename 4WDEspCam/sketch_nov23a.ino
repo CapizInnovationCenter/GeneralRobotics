@@ -1,8 +1,4 @@
-/*
-  Project: Camera Robot Car (6-Pin L298N Config)
-  Author: Keyestudio / Cleaned by Gemini
-  Function: Control car via WiFi with L298N-V02 Driver
-*/
+// coded with help from Gemini. Adapted from Keyestudio example to work with Makerlab kit.
 
 #include "esp_camera.h"
 #include <WiFi.h>
